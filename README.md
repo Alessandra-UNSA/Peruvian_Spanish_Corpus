@@ -35,7 +35,7 @@ https://youtu.be/-lRp9B6Z35w
 
 https://youtu.be/Da0tn2YEKHY
 
-#Tools
+# Tools
 
 Links from the tools used for the construction of the dataset were:
 
@@ -43,8 +43,9 @@ https://www.audacityteam.org/
 
 https://www.fon.hum.uva.nl/praat/
 
-#Scripts
+# Scripts
 
 Scripts used for the automatic segmentation and the extraction of segments with the annotations into wav format from Praat:
 
 [Scripts.zip](https://github.com/Alessandra-UNSA/Peruvian_Spanish_Corpus/files/7745242/Scripts.zip)
+
