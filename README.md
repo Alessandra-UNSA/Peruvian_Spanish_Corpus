@@ -1,3 +1,3 @@
-# Peruvian_Spanish_Corpus ESCorpus-PE
+# Peruvian Spanish Corpus ESCorpus-PE
 Important data from Peruvian Spanish Corpus ESCorpus-PE
 ESCorpus-PE dataset contains emotional utterances of Spanish peruvian speech gathered from Spanish interviews, TV reports, political debate and testimonials. It contains 3749 utterances of three emotional dimensions: Valence, Arousal and Dominance. There are 80 speakers (44 male and 36 female). This data was created from Youtube audios. These audios were selected following a specific criteria specified in the paper: ESCorpus-PE: A speech emotional database in Spanish with Peruvian accent, in the section Methods/Audio/Video Selection. Anyone can use this data only for research purposes.
